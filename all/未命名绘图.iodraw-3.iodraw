@@ -19,8 +19,8 @@
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="350" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cwV-C_AirL9Vx6JmbHw0-8" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.58;" vertex="1" parent="1">
-          <mxGeometry x="490" y="290" width="120" height="80" as="geometry" />
+        <mxCell id="cwV-C_AirL9Vx6JmbHw0-8" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.58;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
