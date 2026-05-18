@@ -25,7 +25,7 @@
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e9f6e9;strokeWidth=1;strokeColor=#009900;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
           <mxGeometry x="15.009813400467545" y="169.99876543209876" width="179.99515540989586" height="38.58024691358024" as="geometry" />
         </mxCell>
-        <mxCell id="cwV-C_AirL9Vx6JmbHw0-49" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Diagnosis Progression&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
+        <mxCell id="cwV-C_AirL9Vx6JmbHw0-49" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Diagnosis Progression&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
           <mxGeometry y="11.11" width="136.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-23" value="" style="group" vertex="1" connectable="0" parent="1">
