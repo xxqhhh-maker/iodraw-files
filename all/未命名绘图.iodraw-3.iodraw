@@ -31,7 +31,7 @@
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-13" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Runtime Evidence&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="226.74" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cwV-C_AirL9Vx6JmbHw0-17" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 7px;&quot;&gt;Runtime Pattern:&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cwV-C_AirL9Vx6JmbHw0-17" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 7px;&quot;&gt;Runtime Pattern:&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;pressure fluctuation with stable target pressure&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="270" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
