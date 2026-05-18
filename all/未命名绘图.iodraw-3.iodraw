@@ -35,7 +35,7 @@
           <mxGeometry y="66" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-72" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;LLM + Rule&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
-          <mxGeometry y="140" width="90" height="30" as="geometry" />
+          <mxGeometry x="4" y="136" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-23" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="110" y="240" width="120" height="203.26" as="geometry" />
