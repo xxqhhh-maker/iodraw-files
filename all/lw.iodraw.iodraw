@@ -154,9 +154,6 @@
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-129" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;case_020,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;similarity&lt;/span&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp;= 0.9965&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="569.1800000000001" y="444.99999999999994" width="130.15" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwV-C_AirL9Vx6JmbHw0-9" target="jjeQPI6BIGNpYUJSNYv9-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
