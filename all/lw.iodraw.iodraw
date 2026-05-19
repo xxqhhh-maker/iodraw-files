@@ -79,7 +79,7 @@
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-71" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b style=&quot;&quot;&gt;F4:&lt;/b&gt;&lt;b&gt;: Moderateistegate solenoidvalve fault&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-73">
           <mxGeometry x="26.569999999999965" y="280.42" width="136.16" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cwV-C_AirL9Vx6JmbHw0-8" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.95;rotation=90;base=19;size=30;position=0.86;fillColor=#def2de;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
+        <mxCell id="cwV-C_AirL9Vx6JmbHw0-8" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.99;rotation=90;base=19;size=30;position=0.86;fillColor=#def2de;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="260" width="231.73" height="155.38" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-23" value="" style="group" parent="1" vertex="1" connectable="0">
