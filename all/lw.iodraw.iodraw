@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sOo_LdeXY9uhSpdVLD6p">
-    <mxGraphModel dx="32702" dy="16384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="34302" dy="17184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,9 +157,6 @@
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-40" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 5px;&quot;&gt;&lt;i&gt;Detailed explanation of&amp;nbsp; the KG-RMD row&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jjeQPI6BIGNpYUJSNYv9-168" vertex="1">
           <mxGeometry x="27.100000000000023" y="13.848004516129038" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-77" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;KG-RMD Evidence View&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-168">
-          <mxGeometry x="12.000842490842388" width="170.5" height="33.21870967741935" as="geometry" />
-        </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-82" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-168">
           <mxGeometry x="28.100000000000023" y="44.47800451612903" width="203.9" height="34.74" as="geometry" />
         </mxCell>
@@ -201,6 +198,9 @@
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-115" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;F4 → affect intake-pressure control → MIAP fluctuation&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-168">
           <mxGeometry x="31.850000000000023" y="95.58800451612905" width="190.15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-77" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;KG-RMD Evidence View&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-168">
+          <mxGeometry x="12.000842490842388" width="170.5" height="33.21870967741935" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
