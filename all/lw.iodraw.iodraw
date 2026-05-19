@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-12" value="" style="group;strokeWidth=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="268" y="149.38" width="310" height="343.26" as="geometry" />
+          <mxGeometry x="267" y="149.38" width="310" height="343.26" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-4" value="&lt;font color=&quot;#cc0066&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Incorrect&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
           <mxGeometry x="178.84307692307692" y="66" width="107.3076923076923" height="30" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="18.74999999999997" y="210" width="241.25" height="42.72" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-49" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Diagnosis Progression&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cwV-C_AirL9Vx6JmbHw0-12" vertex="1">
-          <mxGeometry x="12.490842490842464" y="12.301995483870977" width="170.5" height="33.21870967741935" as="geometry" />
+          <mxGeometry x="0.0008424908424640165" y="12.301995483870977" width="170.5" height="33.21870967741935" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-52" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;Variant outputs on case_ 024&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cwV-C_AirL9Vx6JmbHw0-12" vertex="1">
           <mxGeometry x="23.84615384615382" y="30.00000000000001" width="107.3076923076923" height="30" as="geometry" />
