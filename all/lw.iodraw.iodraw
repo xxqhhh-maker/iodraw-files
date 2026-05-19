@@ -128,7 +128,7 @@
           <mxGeometry x="566.1" y="295.26" width="142.9" height="34.74" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="566.1" y="360" width="142.9" height="34.74" as="geometry" />
+          <mxGeometry x="566.1" y="350" width="142.9" height="44.74" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-84" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567.1" y="419.59" width="142.9" height="34.74" as="geometry" />
@@ -143,7 +143,10 @@
           <mxGeometry x="568.8461538461538" y="308.26" width="107.3076923076923" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-114" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;KG paths&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="351" width="107.3076923076923" height="30" as="geometry" />
+          <mxGeometry x="540" y="340" width="107.3076923076923" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-115" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Parameters:EVOP,MIAP,TIAP&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="578.8461538461538" y="318.26" width="107.3076923076923" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
