@@ -164,6 +164,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-138" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="463" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
