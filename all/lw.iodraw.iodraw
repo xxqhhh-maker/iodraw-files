@@ -23,10 +23,10 @@
           <mxGeometry x="21.47" y="197.7" width="241.25" height="42.72" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-49" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Diagnosis Progression&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jjeQPI6BIGNpYUJSNYv9-78" vertex="1">
-          <mxGeometry x="2.7208424908424913" y="0.0019954838709654865" width="170.5" height="33.21870967741935" as="geometry" />
+          <mxGeometry x="-2.2791575091575087" y="0.0019954838709654865" width="170.5" height="33.21870967741935" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-52" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;Variant outputs on case_ 024&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jjeQPI6BIGNpYUJSNYv9-78" vertex="1">
-          <mxGeometry x="26.566153846153846" y="17.7" width="107.3076923076923" height="30" as="geometry" />
+          <mxGeometry x="20.566153846153846" y="18.7" width="107.3076923076923" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-53" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;LLM only&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jjeQPI6BIGNpYUJSNYv9-78" vertex="1">
           <mxGeometry y="53.7" width="107.3076923076923" height="30" as="geometry" />
