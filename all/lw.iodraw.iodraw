@@ -11,10 +11,10 @@
           <mxGeometry x="270" y="150" width="310" height="343.26" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="cwV-C_AirL9Vx6JmbHw0-12" vertex="1">
-          <mxGeometry y="12.301995483870966" width="262.3076923076923" height="330.95800451612894" as="geometry" />
+          <mxGeometry y="12.3" width="270" height="330.96" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde9e9;strokeWidth=1;strokeColor=#FFCCE6;" parent="cwV-C_AirL9Vx6JmbHw0-12" vertex="1">
-          <mxGeometry x="18.735406115602302" y="69.99930071684585" width="224.82911353397253" height="42.7195340501792" as="geometry" />
+          <mxGeometry x="18.74" y="70" width="241.26" height="42.72" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e9f6e9;strokeWidth=1;strokeColor=#009900;" parent="cwV-C_AirL9Vx6JmbHw0-12" vertex="1">
           <mxGeometry x="18.75" y="140" width="241.25" height="42.72" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="18.748521500217688" y="279.99708007168454" width="224.82911353397253" height="42.7195340501792" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e9f6e9;strokeWidth=1;strokeColor=#009900;" parent="cwV-C_AirL9Vx6JmbHw0-12" vertex="1">
-          <mxGeometry x="18.748521500217702" y="209.99798781362003" width="224.82911353397253" height="42.7195340501792" as="geometry" />
+          <mxGeometry x="18.75" y="210" width="241.25" height="42.72" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-49" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Diagnosis Progression&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cwV-C_AirL9Vx6JmbHw0-12" vertex="1">
           <mxGeometry x="12.49084249084249" y="12.301995483870966" width="170.5" height="33.21870967741935" as="geometry" />
