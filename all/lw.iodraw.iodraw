@@ -94,9 +94,6 @@
             <mxPoint x="9.889999999999986" y="222.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-143" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#00994D;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-78">
-          <mxGeometry y="140.42000000000002" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-144" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#00994D;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-78">
           <mxGeometry y="209.06" width="20" height="20" as="geometry" />
         </mxCell>
@@ -108,6 +105,9 @@
             <mxPoint x="-40" y="130.87" as="sourcePoint" />
             <mxPoint x="10" y="80.87" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-143" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#00994D;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-78">
+          <mxGeometry y="140.42000000000002" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-23" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="40" y="242.98000000000002" width="200" height="203.26" as="geometry" />
