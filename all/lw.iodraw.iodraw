@@ -140,10 +140,7 @@
           <mxGeometry x="569.85" y="369.74" width="200.15" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-121" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;F4 → may progress to F5 → current evidence supports F4&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570.1800000000001" y="379.26" width="130.15" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-122" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;F5: Severe wastegate solenoid valve fault&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="569.85" y="387.37" width="140.15" height="30" as="geometry" />
+          <mxGeometry x="570.18" y="379.26" width="199.82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-126" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Historical Similar Cases&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="569" y="416" width="107.3076923076923" height="30" as="geometry" />
