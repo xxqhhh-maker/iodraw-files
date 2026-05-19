@@ -70,6 +70,9 @@
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-48" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b style=&quot;&quot;&gt;F4:&lt;/b&gt;&lt;b&gt;: Moderateistegate solenoidvalve fault&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
           <mxGeometry x="23.84" y="222.72" width="136.16" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-70" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b style=&quot;&quot;&gt;KG context added&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
+          <mxGeometry x="178.84307692307692" y="222.72000000000003" width="107.3076923076923" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-23" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="110" y="240" width="120" height="203.26" as="geometry" />
         </mxCell>
@@ -108,9 +111,6 @@
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-42" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;TIAP=0.3&amp;gt;5.0&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Target Intake Air Pressure&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="313.26" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-70" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Rule-guided correction&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="456.8430769230769" y="312.1" width="107.3076923076923" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
