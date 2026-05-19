@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sOo_LdeXY9uhSpdVLD6p">
-    <mxGraphModel dx="592819" dy="356848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="597783" dy="360137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,11 +116,6 @@
           <mxGeometry y="138.42000000000002" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-166" value="" style="group" vertex="1" connectable="0" parent="1" />
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwV-C_AirL9Vx6JmbHw0-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="379.320000000007" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-8" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;rotation=90;base=10;size=20;position=0.75;fillColor=#def2de;strokeColor=#009900;rounded=1;strokeWidth=1.5;arcSize=32;" parent="1" vertex="1">
           <mxGeometry x="546.19" y="261.36" width="201.08" height="235.92" as="geometry" />
         </mxCell>
@@ -181,42 +176,6 @@
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-134" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 7px;&quot;&gt;Shared runtime evidence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="77" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-178" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="179" width="170" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="cwV-C_AirL9Vx6JmbHw0-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf3fb;strokeColor=#6666FF;strokeWidth=1;dashed=1;" parent="jjeQPI6BIGNpYUJSNYv9-178" vertex="1">
-          <mxGeometry width="170" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="cwV-C_AirL9Vx6JmbHw0-22" value="" style="group" parent="jjeQPI6BIGNpYUJSNYv9-178" vertex="1" connectable="0">
-          <mxGeometry x="14.17" width="148.75" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="cwV-C_AirL9Vx6JmbHw0-13" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;Runtime Evidence&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cwV-C_AirL9Vx6JmbHw0-22" vertex="1">
-          <mxGeometry width="127.503" height="48.70609072124373" as="geometry" />
-        </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-202" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-22">
-          <mxGeometry x="0.7499999999999964" y="53.87" width="140.17" height="55.13" as="geometry" />
-        </mxCell>
-        <mxCell id="cwV-C_AirL9Vx6JmbHw0-17" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Runtime Pattern&lt;/b&gt;:&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;pressure fluctuation with stable target pressure&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cwV-C_AirL9Vx6JmbHw0-22" vertex="1">
-          <mxGeometry x="7.08" y="55.87418282003344" width="127.503" height="48.70609072124373" as="geometry" />
-        </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-201" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-22">
-          <mxGeometry x="-0.1700000000000017" y="126.87" width="140.17" height="55.13" as="geometry" />
-        </mxCell>
-        <mxCell id="cwV-C_AirL9Vx6JmbHw0-18" value="&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;EVOP=3.5981&amp;gt;1.5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Exhaust Valve Opening Proportion&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cwV-C_AirL9Vx6JmbHw0-22" vertex="1">
-          <mxGeometry x="7.08" y="138.64" width="141.67" height="45.36" as="geometry" />
-        </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-198" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-178">
-          <mxGeometry x="14.17" y="194.87" width="140.17" height="55.13" as="geometry" />
-        </mxCell>
-        <mxCell id="cwV-C_AirL9Vx6JmbHw0-19" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;MIAP=103.4314&amp;gt;40.0&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Measured Intake Air&amp;nbsp; Pressure&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jjeQPI6BIGNpYUJSNYv9-178" vertex="1">
-          <mxGeometry x="19.330000000000002" y="198.08245498376465" width="141.67" height="48.70609072124373" as="geometry" />
-        </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-200" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-178">
-          <mxGeometry x="14.170000000000002" y="265.87" width="140.17" height="55.13" as="geometry" />
-        </mxCell>
-        <mxCell id="cwV-C_AirL9Vx6JmbHw0-20" value="&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;TIAP=0.3&amp;gt;5.0&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Target Intake Air Pressure&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jjeQPI6BIGNpYUJSNYv9-178" vertex="1">
-          <mxGeometry x="21.17" y="274.87" width="141.67" height="46.13" as="geometry" />
-        </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-183" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="800" y="279.95000000000005" width="980" height="203.26" as="geometry" />
         </mxCell>
@@ -243,6 +202,39 @@
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-191" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 7px;&quot;&gt;Context&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;F4 may progress to F5, current evidence&amp;nbsp; &lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 7px; background-color: initial;&quot;&gt;supports F4.&lt;/b&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-186">
           <mxGeometry x="20" y="160.26" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cwV-C_AirL9Vx6JmbHw0-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf3fb;strokeColor=#6666FF;strokeWidth=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="179" width="170" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cwV-C_AirL9Vx6JmbHw0-22" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="44.17" y="179" width="148.75" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cwV-C_AirL9Vx6JmbHw0-13" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;Runtime Evidence&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cwV-C_AirL9Vx6JmbHw0-22" vertex="1">
+          <mxGeometry width="127.503" height="48.70609072124373" as="geometry" />
+        </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-202" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-22">
+          <mxGeometry x="0.7499999999999964" y="53.87" width="140.17" height="55.13" as="geometry" />
+        </mxCell>
+        <mxCell id="cwV-C_AirL9Vx6JmbHw0-17" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Runtime Pattern&lt;/b&gt;:&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;pressure fluctuation with stable target pressure&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cwV-C_AirL9Vx6JmbHw0-22" vertex="1">
+          <mxGeometry x="7.08" y="55.87418282003344" width="127.503" height="48.70609072124373" as="geometry" />
+        </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-201" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-22">
+          <mxGeometry x="-0.1700000000000017" y="126.87" width="140.17" height="55.13" as="geometry" />
+        </mxCell>
+        <mxCell id="cwV-C_AirL9Vx6JmbHw0-18" value="&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;EVOP=3.5981&amp;gt;1.5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Exhaust Valve Opening Proportion&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cwV-C_AirL9Vx6JmbHw0-22" vertex="1">
+          <mxGeometry x="7.08" y="138.64" width="141.67" height="45.36" as="geometry" />
+        </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-198" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="44.17" y="373.87" width="140.17" height="55.13" as="geometry" />
+        </mxCell>
+        <mxCell id="cwV-C_AirL9Vx6JmbHw0-19" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;MIAP=103.4314&amp;gt;40.0&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Measured Intake Air&amp;nbsp; Pressure&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="49.33" y="377.08245498376465" width="141.67" height="48.70609072124373" as="geometry" />
+        </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-200" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="44.17" y="443.87" width="140.17" height="55.13" as="geometry" />
+        </mxCell>
+        <mxCell id="cwV-C_AirL9Vx6JmbHw0-20" value="&lt;div&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;TIAP=0.3&amp;gt;5.0&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Target Intake Air Pressure&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="51.17" y="453.87" width="141.67" height="46.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
