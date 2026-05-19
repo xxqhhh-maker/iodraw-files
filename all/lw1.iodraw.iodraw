@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sOo_LdeXY9uhSpdVLD6p">
-    <mxGraphModel dx="669814" dy="410336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="671407" dy="411313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,7 +146,7 @@
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-120" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;F4 → causes pressure instability→ runtime pattern&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-173">
           <mxGeometry x="29.592672413793128" y="105.95903482284861" width="198.42456896551727" height="30.000291711812864" as="geometry" />
         </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-121" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;F4 → may progress to F5 → current evidence supports F4&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-173">
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-121" value="&lt;font style=&quot;font-size: 7px; font-weight: normal;&quot;&gt;F4 → may progress to F5 → current evidence supports F4&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-173">
           <mxGeometry x="29.919827586206846" y="116.47913711645764" width="198.09741379310344" height="30.000291711812864" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-126" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Historical Similar Cases&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-173">
@@ -161,7 +161,7 @@
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-129" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;case_020,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;similarity&lt;/span&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp;= 0.9965&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-173">
           <mxGeometry x="28.928448275862134" y="175.21970828818712" width="129.02801724137933" height="30.000291711812864" as="geometry" />
         </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-115" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;F4 → affect intake-pressure control → MIAP fluctuation&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-173">
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-115" value="&lt;font style=&quot;font-size: 7px; font-weight: normal;&quot;&gt;F4 → affect intake-pressure control → MIAP fluctuation&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-173">
           <mxGeometry x="29.592672413793128" y="95.58893398779851" width="188.51077586206898" height="30.000291711812864" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-77" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;KG-RMD Evidence View&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-173">
