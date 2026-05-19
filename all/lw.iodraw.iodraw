@@ -35,10 +35,10 @@
           <mxGeometry x="-2.72" y="66" width="107.3076923076923" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-72" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;LLM + Rule&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cwV-C_AirL9Vx6JmbHw0-12" vertex="1">
-          <mxGeometry x="4.769230769230769" y="136" width="107.3076923076923" height="30" as="geometry" />
+          <mxGeometry x="-0.0007692307692304112" y="136" width="107.3076923076923" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-73" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;LLM + Rule +KG&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cwV-C_AirL9Vx6JmbHw0-12" vertex="1">
-          <mxGeometry x="17.884615384615387" y="205" width="107.3076923076923" height="30" as="geometry" />
+          <mxGeometry x="12.494615384615386" y="205" width="107.3076923076923" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-74" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;KG-RMD&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cwV-C_AirL9Vx6JmbHw0-12" vertex="1">
           <mxGeometry x="-2.718461538461506" y="274" width="107.3076923076923" height="30" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="178.84307692307692" y="82.72" width="107.3076923076923" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b style=&quot;&quot;&gt;F4:&lt;/b&gt;&lt;b&gt;: Moderateistegate solenoidvalve fault&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
-          <mxGeometry x="20.236153846153847" y="152.72" width="155" height="30" as="geometry" />
+          <mxGeometry x="23.846153846153847" y="152.72" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-23" value="&lt;font color=&quot;#00994d&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Correct&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
           <mxGeometry x="178.8492307692308" y="136" width="107.3076923076923" height="30" as="geometry" />
