@@ -79,11 +79,17 @@
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-72" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Expanded evidence view&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
           <mxGeometry x="178.83923076923077" y="292.72" width="107.3076923076923" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-145" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
+          <mxGeometry y="292.72" width="20" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-142" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-78">
           <mxGeometry x="2.7199999999999998" y="69.06" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-143" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-78">
           <mxGeometry x="1.4700000000000273" y="140.42000000000002" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-144" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-78">
+          <mxGeometry y="209.06" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-23" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="40" y="242.98000000000002" width="200" height="203.26" as="geometry" />
@@ -170,9 +176,6 @@
               <mxPoint x="248" y="344" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-144" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="292.72" y="268.19" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
