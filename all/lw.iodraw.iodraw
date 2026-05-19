@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sOo_LdeXY9uhSpdVLD6p">
-    <mxGraphModel dx="224894" dy="138488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="227294" dy="140088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
           <mxGeometry x="490" y="246.06" width="287.25" height="180" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-173" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="710" y="550" width="230" height="205.22" as="geometry" />
+          <mxGeometry x="540" y="230" width="230" height="205.22" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-40" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 5px;&quot;&gt;&lt;i&gt;Detailed explanation of&amp;nbsp; the KG-RMD row&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jjeQPI6BIGNpYUJSNYv9-173" vertex="1">
           <mxGeometry x="24.883620689655196" y="13.848139170345712" width="138.79310344827587" height="30.000291711812864" as="geometry" />
@@ -195,9 +195,6 @@
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-115" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;F4 → affect intake-pressure control → MIAP fluctuation&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-173">
           <mxGeometry x="29.592672413793128" y="95.58893398779851" width="188.51077586206898" height="30.000291711812864" as="geometry" />
-        </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jjeQPI6BIGNpYUJSNYv9-173" source="jjeQPI6BIGNpYUJSNYv9-77" target="jjeQPI6BIGNpYUJSNYv9-82">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-77" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;KG-RMD Evidence View&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-173">
           <mxGeometry x="9.914628331438575" width="169.0301724137931" height="33.21903268708672" as="geometry" />
