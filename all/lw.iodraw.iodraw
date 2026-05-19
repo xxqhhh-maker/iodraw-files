@@ -79,6 +79,12 @@
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-72" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Expanded evidence view&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
           <mxGeometry x="178.83923076923077" y="292.72" width="107.3076923076923" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-148" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="229.98" as="sourcePoint" />
+            <mxPoint x="10" y="159.99999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-142" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#00994D;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-78">
           <mxGeometry y="69.06" width="20" height="20" as="geometry" />
         </mxCell>
@@ -118,7 +124,7 @@
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-134" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 7px;&quot;&gt;Shared runtime evidence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-23">
           <mxGeometry x="123" y="74.26" width="77" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-147" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="cwV-C_AirL9Vx6JmbHw0-23">
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-147" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="cwV-C_AirL9Vx6JmbHw0-23" source="jjeQPI6BIGNpYUJSNYv9-143">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="67.01999999999998" as="sourcePoint" />
             <mxPoint x="240" y="17.019999999999982" as="targetPoint" />
