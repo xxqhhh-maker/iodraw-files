@@ -113,7 +113,7 @@
           <mxGeometry x="518.75" y="281.75" width="207.5" height="181.83" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-40" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;Detailed explanation of&amp;nbsp; the KG-RMD row&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="800" y="236.63" width="100" height="30" as="geometry" />
+          <mxGeometry x="566.1" y="283.63" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-41" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;MIAP=103.4314&amp;gt;40.0&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Measured Intake Air&amp;nbsp; Pressure&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="273.26" width="100" height="30" as="geometry" />
