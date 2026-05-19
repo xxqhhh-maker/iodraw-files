@@ -192,6 +192,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-155" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#00994D;" vertex="1" parent="1">
+          <mxGeometry x="280" y="329.55" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
