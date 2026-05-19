@@ -82,12 +82,6 @@
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-142" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#00994D;" vertex="1" parent="cwV-C_AirL9Vx6JmbHw0-12">
           <mxGeometry y="75.99999999999997" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-150" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="jjeQPI6BIGNpYUJSNYv9-78" source="jjeQPI6BIGNpYUJSNYv9-143" target="jjeQPI6BIGNpYUJSNYv9-142">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-50" y="130.87" as="sourcePoint" />
-            <mxPoint x="10" y="100.87" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-151" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="jjeQPI6BIGNpYUJSNYv9-78">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="9.889999999999986" y="222.7" as="sourcePoint" />
