@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sOo_LdeXY9uhSpdVLD6p">
-    <mxGraphModel dx="713692" dy="437069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="715939" dy="438985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,11 +116,6 @@
           <mxGeometry y="138.42000000000002" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-166" value="" style="group" vertex="1" connectable="0" parent="1" />
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwV-C_AirL9Vx6JmbHw0-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="379.320000000007" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cwV-C_AirL9Vx6JmbHw0-8" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;rotation=90;base=10;size=20;position=0.75;fillColor=#def2de;strokeColor=#009900;rounded=1;strokeWidth=1.5;arcSize=32;" parent="1" vertex="1">
           <mxGeometry x="546.19" y="261.36" width="201.08" height="235.92" as="geometry" />
         </mxCell>
@@ -214,9 +209,6 @@
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-191" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Context&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;F4 may progress to F5, current evidence&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-size: 7px; background-color: initial;&quot;&gt;supports F4&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-186">
           <mxGeometry x="19" y="154.26" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jjeQPI6BIGNpYUJSNYv9-222" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Evidence-grounded&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;inference&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jjeQPI6BIGNpYUJSNYv9-183">
-          <mxGeometry x="-42" y="75.87999999999994" width="67.08" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwV-C_AirL9Vx6JmbHw0-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="344" as="targetPoint" />
@@ -257,6 +249,9 @@
         </mxCell>
         <mxCell id="jjeQPI6BIGNpYUJSNYv9-121" value="&lt;font style=&quot;font-size: 7px; font-weight: normal;&quot;&gt;F4 → may progress to F5 → current evidence supports F4&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="559.8998275862068" y="390.78913711645765" width="198.09741379310344" height="30.000291711812864" as="geometry" />
+        </mxCell>
+        <mxCell id="jjeQPI6BIGNpYUJSNYv9-222" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;Evidence-grounded&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;inference&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="320" width="67.08" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
