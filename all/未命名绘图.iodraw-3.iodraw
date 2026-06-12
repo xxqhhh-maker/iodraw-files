@@ -16,7 +16,7 @@
             <mxPoint x="2267" y="996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13ynboSXq5ZweAzORQ_k-6" value="Equipment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="13ynboSXq5ZweAzORQ_k-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;Equipment-related schema:&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1805" y="756" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
